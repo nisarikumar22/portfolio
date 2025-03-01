@@ -1,14 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - My New Hugo Site</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://example.org/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 14:28:30 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 14:57:56 &#43;0530</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Second</title>
+    <link>https://example.org/posts/my-second/</link>
+    <pubDate>Sat, 01 Mar 2025 14:57:56 &#43;0530</pubDate>
+    <author>xxxx</author>
+    <guid>https://example.org/posts/my-second/</guid>
+    <description><![CDATA[<h2 id="this-is-markdown-heading">This is markdown heading</h2>
+<p>this is template site</p>
+<p>byeee.</p>]]></description>
+</item>
+<item>
     <title>My First Post</title>
-    <link>http://localhost:1313/posts/my-first-post/</link>
+    <link>https://example.org/posts/my-first-post/</link>
     <pubDate>Sat, 01 Mar 2025 14:28:30 &#43;0530</pubDate>
     <author>xxxx</author>
-    <guid>http://localhost:1313/posts/my-first-post/</guid>
+    <guid>https://example.org/posts/my-first-post/</guid>
     <description><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
 <p>Visit the <a href="https://gohugo.io" target="_blank" rel="noopener noreffer ">Hugo</a> website!</p>
